@@ -32,6 +32,10 @@ class ViewController: UIViewController {
     let decimal100 = NSDecimalNumber(string: "100.0")
     let decimal15Percet = NSDecimalNumber(string: "0.15")
     
+    // This comment does nothing
+    // This comment also does nothing
+    // This is yet another comment that does nothing
+    
     override func viewDidLoad() {
     //override vs. overview
         //override - call parent class version of it first then do other stuff
